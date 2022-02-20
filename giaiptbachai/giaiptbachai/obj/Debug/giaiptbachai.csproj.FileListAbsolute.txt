@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\giaiptbachai\giaiptbachai\bin\Debug\giaiptbachai.exe.config
+C:\Users\ADMIN\source\repos\giaiptbachai\giaiptbachai\bin\Debug\giaiptbachai.exe
+C:\Users\ADMIN\source\repos\giaiptbachai\giaiptbachai\bin\Debug\giaiptbachai.pdb
+C:\Users\ADMIN\source\repos\giaiptbachai\giaiptbachai\obj\Debug\giaiptbachai.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\giaiptbachai\giaiptbachai\obj\Debug\giaiptbachai.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\giaiptbachai\giaiptbachai\obj\Debug\giaiptbachai.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\giaiptbachai\giaiptbachai\obj\Debug\giaiptbachai.exe
+C:\Users\ADMIN\source\repos\giaiptbachai\giaiptbachai\obj\Debug\giaiptbachai.pdb
